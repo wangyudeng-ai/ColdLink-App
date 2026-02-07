@@ -1,0 +1,5 @@
+{
+  "name": "ColdLink - 冷库温度智能管理系统",
+  "description": "专业的冷库温度记录与监控工具，支持多库管理、定时提醒、自动补齐时间戳及可视化温度趋势分析。",
+  "requestFramePermissions": []
+}
